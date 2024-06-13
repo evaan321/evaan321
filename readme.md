@@ -26,25 +26,16 @@ I'm Evaan, a backend developer from 🌍 Dhaka, Bangladesh, currently living in 
 
 ## Open source projects
 
-| Projects | Stars | Forks | Issues | Pull Requests |
-| --- | --- | --- | --- | --- |
-| [React PullToRefresh component](https://github.com/yourusername/react-pulltorefresh) | ![GitHub stars](https://img.shields.io/github/stars/yourusername/react-pulltorefresh?style=social) | ![GitHub forks](https://img.shields.io/github/forks/yourusername/react-pulltorefresh?style=social) | ![GitHub issues](https://img.shields.io/github/issues/yourusername/react-pulltorefresh) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/react-pulltorefresh) |
-| [Typescript & React Chrome Extension Starter](https://github.com/yourusername/typescript-react-chrome-extension-starter) | ![GitHub stars](https://img.shields.io/github/stars/yourusername/typescript-react-chrome-extension-starter?style=social) | ![GitHub forks](https://img.shields.io/github/forks/yourusername/typescript-react-chrome-extension-starter?style=social) | ![GitHub issues](https://img.shields.io/github/issues/yourusername/typescript-react-chrome-extension-starter) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/typescript-react-chrome-extension-starter) |
-| [NodeJS Express TypeScript GraphQL Starter](https://github.com/yourusername/nodejs-express-typescript-graphql-starter) | ![GitHub stars](https://img.shields.io/github/stars/yourusername/nodejs-express-typescript-graphql-starter?style=social) | ![GitHub forks](https://img.shields.io/github/forks/yourusername/nodejs-express-typescript-graphql-starter?style=social) | ![GitHub issues](https://img.shields.io/github/issues/yourusername/nodejs-express-typescript-graphql-starter) | ![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/nodejs-express-typescript-graphql-starter) |
-
-## My l
-
-- [Create Your First Ethereum Smart Contract With Remix IDE](https://medium.com/@yourusername/create-your-first-ethereum-smart-contract-with-remix-ide)
-- [How to Create a Self-Updating README.md for Your GitHub Profile](https://medium.com/@yourusername/how-to-create-a-self-updating-readme-md-for-your-github-profile)
-- [How You Should Structure Your React Applications](https://medium.com/@yourusername/how-you-should-structure-your-react-applications)
-- [Pro Tips To Start With Your Side Project](https://medium.com/@yourusername/pro-tips-to-start-with-your-side-project)
-- [How to Take Care of Your Personal Branding as a Programmer](https://medium.com/@yourusername/how-to-take-care-of-your-personal-branding-as-a-programmer)
-- [New Features Shipping With ES2022](https://medium.com/@yourusername/new-features-shipping-with-es2022)
+| Projects | Repository | Live Link |
+| --- | --- | --- |
+| PropSmart Frontend | [PropSmart Frontend](https://github.com/evaan321/PropSmart-Frontend) | [propsmart.netlify.app](https://propsmart.netlify.app/) |
+| PropSmart Backend | [PropSmart Backend](https://github.com/evaan321/PropSmart) | [propsmart.onrender.com](https://propsmart.onrender.com/) |
+| Meme Mansion Frontend | [Meme Mansion Frontend](https://github.com/evaan321/Meme-Mansion-frontend) | [mememansion.netlify.app](https://mememansion.netlify.app/) |
+| Meme Mansion Backend | [Meme Mansion Backend](https://github.com/evaan321/Meme-Mansion-backend) | [GitHub Repo](https://github.com/evaan321/Meme-Mansion-backend) |
+| Newspaper | [Newspaper](https://github.com/evaan321/Newspaper) | [newspaper-r9cg.onrender.com](https://newspaper-r9cg.onrender.com/) |
 
 ## Follow me
 
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow%20me&style=social)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/twitter/follow/yourusername?label=Follow%20me&style=social)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yourusername)
-[![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white&style=flat)](https://medium.com/@yourusername)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/github/followers/evaan321?label=Follow%20me&style=social)](https://github.com/evaan321)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/abdullah-rahman-evaan-0544392a5/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:evaanrahman2@gmail.com)
