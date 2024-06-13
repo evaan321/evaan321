@@ -24,7 +24,7 @@ I'm Evaan, a backend developer from 🌍 Dhaka, Bangladesh, currently living in 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=flat)
 
-## Open source projects
+## My projects
 
 | Projects | Repository | Live Link |
 | --- | --- | --- |
